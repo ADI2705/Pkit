@@ -1,0 +1,36 @@
+==== CPU ====
+	Vendor       : Intel[0m
+	Model        : 13th Gen Intel(R) Core(TM) i5-13500[0m
+	Cores        : 6[0m
+	Threads      : 12[0m
+	Core Speed   : 4691 MHz[0m
+	Multiplier   : [0m
+	Bus Speed    : [0m
+	Temperature  : 55.00°C[0m
+
+==== Motherboard ====
+	Vendor       : Dell Inc.
+	Model        : 0PJDGF
+	Serial       : /B79LYX3/CNFCW002BI01YT/
+
+==== HBA ====
+	PCI Device   : 
+	Model        : 
+	Serial       : 
+
+==== PSU ====
+	Error: ipmicfg not available or no PSU information found
+
+==== RAM ====
+	Slot         :	DIMM1
+		Size        :	16 GB
+		Type        :	DDR4
+		Speed       :	3200 MT/s
+		Serial      :	1653630B
+		Manufacturer:	80CE000080CE
+	Slot         :	DIMM2
+		Size        :	16 GB
+		Type        :	DDR4
+		Speed       :	3200 MT/s
+		Serial      :	163C339B
+		Manufacturer:	80CE000080CE
